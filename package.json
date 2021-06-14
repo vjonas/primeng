@@ -1,6 +1,6 @@
 {
     "name": "@jonasv/primeng",
-    "version": "11.4.3",
+    "version": "11.4.4",
     "license": "MIT",
     "scripts": {
         "ng": "ng",
